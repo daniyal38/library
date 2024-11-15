@@ -1,0 +1,15 @@
+-------------------Django Project Setup Guide-----------------------------------
+Type the following in the command prompt, remember to navigate to where you want to create your project:
+Windows:
+py -m venv <environment_name>
+------------------------------
+
+Then you have to activate the environment, by typing this command:
+Windows:
+myworld\Scripts\activate.bat
+------------------------------
+
+Install django and django-restframework
+
+(venv) $ pip install django
+(venv) $ pip install django-restframework
